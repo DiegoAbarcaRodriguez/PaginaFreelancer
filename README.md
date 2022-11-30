@@ -1,4 +1,4 @@
 # paginaFreelancer
-## Descrición
+## Descripción
 
-Está es una página web sencilla elaborada mediante HTML y CSS.
+Página web sencilla elaborada mediante HTML y CSS.
